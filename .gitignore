@@ -1,0 +1,25 @@
+# Build di Maven (tutto il codice compilato finisce qui)
+target/
+
+# File compilati sparsi
+*.class
+*.jar
+*.war
+
+# File di configurazione degli IDE (IntelliJ, VSCode, Eclipse)
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# File di sistema (Mac/Windows/Linux)
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.directory
+.Trash-*
+.nfs*
