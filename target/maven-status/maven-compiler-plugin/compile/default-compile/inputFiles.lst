@@ -1,0 +1,8 @@
+/home/francescorogo/Developer/uni/fmsr/unified-model-checker/src/main/java/it/unina/mc/Main.java
+/home/francescorogo/Developer/uni/fmsr/unified-model-checker/src/main/java/it/unina/mc/core/ast/Formula.java
+/home/francescorogo/Developer/uni/fmsr/unified-model-checker/src/main/java/it/unina/mc/core/model/CGS.java
+/home/francescorogo/Developer/uni/fmsr/unified-model-checker/src/main/java/it/unina/mc/core/model/KripkeStructure.java
+/home/francescorogo/Developer/uni/fmsr/unified-model-checker/src/main/java/it/unina/mc/core/model/State.java
+/home/francescorogo/Developer/uni/fmsr/unified-model-checker/src/main/java/it/unina/mc/core/model/Transition.java
+/home/francescorogo/Developer/uni/fmsr/unified-model-checker/src/main/java/it/unina/mc/engines/Checkers.java
+/home/francescorogo/Developer/uni/fmsr/unified-model-checker/src/main/java/it/unina/mc/engines/ModelChecker.java
